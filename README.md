@@ -4,13 +4,13 @@ This project is an interactive Excel Dashboard designed to analyze Hospital Emer
 
 📌 Project Objectives
 
-Monitor patient flow
+- Monitor patient flow
 
-Improve operational efficiency
+- Improve operational efficiency
 
-Reduce waiting time
+- Reduce waiting time
 
-Track key performance indicators (KPIs)
+- Track key performance indicators (KPIs)
 
 📊 Key Insights in Dashboard
 
@@ -32,26 +32,34 @@ Track key performance indicators (KPIs)
 
 🛠 Tools Used
 
-Microsoft Excel
+- Microsoft Excel
 
-Power Query
+- Power Query
 
-Power Pivot
+- Power Pivot
 
-Pivot Charts
+- Pivot Charts
 
-DAX Calculations
+- DAX Calculations
 
 🧠 Project Steps
 
 1️⃣ Business Requirement Gathering
+
 2️⃣ Understanding Data
+
 3️⃣ Data Cleaning & Quality Check
+
 4️⃣ Creating Calendar Table
+
 5️⃣ Data Modeling – Power Pivot
+
 6️⃣ Adding Required Columns (DAX)
+
 7️⃣ Creating Pivot Charts
+
 8️⃣ Dashboard Designing
+
 9️⃣ Insights Generation
 
 📷 Dashboard Preview
@@ -60,13 +68,13 @@ DAX Calculations
 
 🎯 Result
 
-This dashboard helped in:
+- This dashboard helped in:
 
-Better decision making
+- Better decision making
 
-Performance monitoring
+- Performance monitoring
 
-Identifying improvement areas
+- Identifying improvement areas
 
 🙌 Author
 
