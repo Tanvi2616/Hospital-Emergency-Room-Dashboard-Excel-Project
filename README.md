@@ -56,7 +56,7 @@ DAX Calculations
 
 📷 Dashboard Preview
 
-Open @Final Dashboard.png
+👉 Open: Final Dashboard.png
 
 🎯 Result
 
